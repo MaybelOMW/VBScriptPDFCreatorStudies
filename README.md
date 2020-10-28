@@ -1,8 +1,8 @@
 # VBScriptPDFCreatorStudies
 
 The VB Scripts in this repository are implementing the sample code provided by PFDCreator.
-1. Convert TXT file to PDF (requires test1.txt)
-2. Save the Printer Tester Details into PDF (requires test1.txt)
+1. Convert TXT file to PDF 
+2. Save the Printer Tester Details into PDF 
 
 ## Installation
 
